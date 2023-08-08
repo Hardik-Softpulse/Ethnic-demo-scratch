@@ -28,7 +28,7 @@ function Cart() {
           <h2 className="page-title text-up text-center">Your Bag</h2>
           <div className="row flxspc flxanst">
             <div className="cart-item-list">
-              <div className="cart-item dfx">
+              <div className="cart-item dfx cart-img">
                 <a href="javascript:void(0)" className="cart-image">
                   <img src={product11} />
                 </a>
