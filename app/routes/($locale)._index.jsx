@@ -66,7 +66,7 @@ export default function HomePage() {
         </Suspense>
       )}
       <BestSeller />
-      <Banner />
+      {/* <Banner /> */}
       <NewArrival />
       <SaleOn />
       <Blogs />
